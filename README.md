@@ -12,5 +12,5 @@ Prompt based learning 기법 중 하나인 PET(Pattern Exploiting Training)의 �
 
 ## Result
 1. 기존 방법론보다 평균 약 1.23%p 성능 향상
-2. 학습 전 앙상블 참여 PVP를 사전에 선정. 효과적인 학습을 수행
+2. 학습 전 앙상블 참여 PVP를 사전에 선정 가능. 효과적인 학습을 수행
 3. 기존 데이터셋과 PVP(프롬프트)의 유사도를 기반으로 새로운 선정 기준 제시
