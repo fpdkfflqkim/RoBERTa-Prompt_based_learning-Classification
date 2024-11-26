@@ -1,5 +1,6 @@
 # Context-Based Prompt Selection Methodology to Enhance Performance in Prompt-Based Learning
 Paper
+  한국컴퓨터정보학회 29권4호 논문지
 
 ## Purpose
 Prompt based learning 기법 중 하나인 PET(Pattern Exploiting Training)의 한계점을 개선(무작위로 앙상블 참여 PVP 선정)
